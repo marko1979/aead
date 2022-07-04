@@ -1,5 +1,5 @@
-require 'aead/cipher'
-require 'aead/cipher/aes_gcm'
+require 'aead/cipher'on>>
+require 'aead/cipher/aes_gcm'yes:_aead/lib/aead/cipher/aes_128_gcm.rb
 
 #
 # Encrypt plaintext using the Galois Counter Mode of AES.
